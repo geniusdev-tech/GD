@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bda474d.css",
+    "main.js": "/static/js/main.a944a7da.js",
+    "static/media/portfolio.jpg": "/static/media/portfolio.9c44e88db88d274d4640.jpg",
+    "static/media/Aldrich-Regular.ttf": "/static/media/Aldrich-Regular.75395156257a5c948148.ttf",
+    "index.html": "/index.html",
+    "main.2bda474d.css.map": "/static/css/main.2bda474d.css.map",
+    "main.a944a7da.js.map": "/static/js/main.a944a7da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bda474d.css",
+    "static/js/main.a944a7da.js"
+  ]
+}

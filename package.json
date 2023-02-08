@@ -1,5 +1,10 @@
 {
-  "name": "react-starter",
+  "name": "gd",
+  "author": {
+    "name": "Rodrigo Lima",
+    "email": "geniusdev.tech@proton.me",
+    "url": "https://geniusdev.tech/"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {

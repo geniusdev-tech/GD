@@ -12,8 +12,7 @@ export const navLinks = ["home", "about", "skills", "Blog", "contact"]
 export const socialIcons = [
   <SocialIcon url="https://linkedin.com/in/geniusdev"  network="linkedin" style={{ height: 35, width: 35 }} />,
   <SocialIcon url="https://github.com/geniusdev-tech/"  network="github" style={{ height: 35, width: 35 }} />,
-  <SocialIcon url="https://instagram.com/rodrigo.crypt/"  network="instagram" style={{ height: 35, width: 35 }} />,
-  <SocialIcon  url="https://facebook.com/rodericus.tech" network="facebook" style={{ height: 35, width: 35 }} />
+  <SocialIcon url="https://instagram.com/_rodrigo.doctor_/"  network="instagram" style={{ height: 35, width: 35 }} />,
 
 ]
 

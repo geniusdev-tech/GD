@@ -47,7 +47,7 @@ const Navbar = () => {
           className={scroll ? "header active" : "header"}>
           <div className="Nav_container">
               <div className="logo">
-                    <h3>GD</h3>
+                    <h3>DataSense.IT</h3>
               </div>
               <ul
                       className="nav_links"

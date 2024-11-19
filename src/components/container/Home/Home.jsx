@@ -1,5 +1,5 @@
 import React from 'react'
-import portfolio from "../../../assets/portfolio.jpg"
+import portfolio from "../../../assets/portfolio.jpeg"
 import "./Home.scss"
 import { motion } from 'framer-motion'
 
@@ -57,7 +57,12 @@ const Home = () => {
         <div
           className="freelance"
         >
-          Freelancer
+          Full Stack Developer
+        </div>
+        <div
+          className="quicks"
+        >
+          Quick Support
         </div>
       </div>
     </motion.div>

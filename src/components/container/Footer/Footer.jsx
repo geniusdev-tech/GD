@@ -3,6 +3,7 @@ import "./Footer.scss"
 import { socialIcons } from '../../../Data';
 import { motion } from 'framer-motion';
 
+const currentYear = new Date().getFullYear();
 const Footer = () => {
   return (
     <motion.div
@@ -15,7 +16,8 @@ const Footer = () => {
       className='footer'
     >
       <div className="copyright">
-        <p>Copyright&copy;2023 All rights reserved.Made by <span>Rodrigo Lima</span></p>
+        <p>Copyright&copy; {currentYear} All rights reserved.Made by <span>Rodrigo Lima</span></p>
+
       </div>
       <div className="followMe">
         <h4>Follow Me</h4>

@@ -57,7 +57,7 @@
                     color: #000;
                     background: #fff;
                     padding: 0.65rem 1rem;
-                    border-radius: 10px;
+                    border-radius: 20px;
                     font-size: 0.85rem;
                     text-transform: capitalize;
                 }
@@ -65,8 +65,8 @@
             position: absolute;
             background: rgba(255,255,255,0.15);
             color: #fff;
-            padding: 0.35rem 1rem;
-            border-radius: 25px;
+            padding: 0.70rem 2rem;
+            border-radius: 40px;
             font-size: 0.85rem;
             cursor: pointer;
         }
@@ -86,6 +86,10 @@
         .freelance {
             bottom: 2rem;
             left: 0;
+        }
+        .quicks {
+            bottom: 2rem;
+            left: 45rem;
         }
     }
 
